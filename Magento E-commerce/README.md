@@ -1,8 +1,8 @@
-1. Project Information
+<h1>1. Project Information</h1>
 
 This project utilizes a robot to make purchases based on certain predefined conditions such as color, size, and price range. It then proceeds to pay for the qualifying items, generate invoices, and encode them. The project uses RobotFramework as the primary language, combined with Python.
 
-2. Installation and Usage
+<h1>2. Installation and Usage</h1>j
 
 Requirements
 Python >= 3.9.13
