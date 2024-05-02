@@ -21,6 +21,7 @@ Install Python and pip according to the specified versions.
 Install the necessary libraries using pip: pip install rpaframework==28.5.1 dop-rpaframework==1.2.4
 
 <h3>Usage</h3>
+
 Open Visual Studio Code (VS Code).
 
 Open the Command Palette.
